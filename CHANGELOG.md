@@ -1,25 +1,3 @@
-## [1.0.4](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.3...v1.0.4) (2023-02-07)
-
-
-### Features
-
-* **course:** add presentation element ([afe4900](https://github.com/yamadharma/course-directory-student-template/commit/afe49009b2f1ca47385f3020048617a0570ed196))
-
-
-
-## [1.0.3](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.2...v1.0.3) (2023-02-07)
-
-
-
-## [1.0.2](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.1...v1.0.2) (2023-01-20)
-
-
-### Features
-
-* **courses:** add file for mathmod ([2150012](https://github.com/yamadharma/course-directory-student-template/commit/2150012e885375b09edc64d4c709bfb8bc6edacc))
-
-
-
 ## [1.0.1](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.0...v1.0.1) (2022-09-06)
 
 
